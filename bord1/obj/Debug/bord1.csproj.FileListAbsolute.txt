@@ -1,0 +1,9 @@
+C:\csharp\form\bord1\bord1\bin\Debug\bord1.exe.config
+C:\csharp\form\bord1\bord1\bin\Debug\bord1.exe
+C:\csharp\form\bord1\bord1\bin\Debug\bord1.pdb
+C:\csharp\form\bord1\bord1\obj\Debug\bord1.csprojResolveAssemblyReference.cache
+C:\csharp\form\bord1\bord1\obj\Debug\bord1.Properties.Resources.resources
+C:\csharp\form\bord1\bord1\obj\Debug\bord1.csproj.GenerateResource.Cache
+C:\csharp\form\bord1\bord1\obj\Debug\bord1.exe
+C:\csharp\form\bord1\bord1\obj\Debug\bord1.pdb
+C:\csharp\form\bord1\bord1\obj\Debug\bord1.Form2.resources
